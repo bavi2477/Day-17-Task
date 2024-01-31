@@ -4,7 +4,6 @@ This web application displays information about various countries, including the
 
 ## Table of Contents
 - [Description](#description)
-- [Preview](#preview)
 - [Features](#features)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
